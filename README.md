@@ -15,6 +15,12 @@ func main() {
 client := openai.NewClient(getEnvVar("OPENAI_API_KEY"))
 // create a .env file OPENAI_API_KEY=**paste here no bracket**
 ```
+# Road Map
+
+- [ ] Filesystem 
+- [ ] parser
+- [x] tayshell openai bot
+- [ ] module environments to learn scripting and safe environment configurations
 
 
 ### example
@@ -22,3 +28,4 @@ client := openai.NewClient(getEnvVar("OPENAI_API_KEY"))
 
 as you can see it will help with programming and also show you the number of tokens per chat 🤖
 
+### Road Map for tayshell
