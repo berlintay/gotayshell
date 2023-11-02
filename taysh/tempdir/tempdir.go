@@ -6,8 +6,12 @@ import (
 	"os"
 	"os/exec"
 )
+// The main Idea for tempdir is to be able to configure a temp environment within a drive location to test packaging and functions, 
+// needs to be iterated "dev*n*" => "devn+1n" and not write the name per stdin iteration. 
+// simple: call tempdir, load go.mod. go.work, set $ENV set TEMP_DRIVE && cd into new "dev" drive, if stdcout := ",_ "tayshell tempdir --done" then break and remove "dev", ask if 
+// a log of the time and exit codes should be put to a log and saved, before recursively removing temp_dir *// 
 
-func main() {
+	func main() {
 	// Create a temp directory to test your ideas
 	tmpDir, err := ioutil.TempDir("", "dev")
 	if err != nil {
