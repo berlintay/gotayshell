@@ -1,31 +1,42 @@
-# gotayshell
-
-I've been working on this idea for long, I am a beginner with programming. 
-
-but so far here is a little preview!
-
-
-```bash
-echo $OPENAI_API_KEY="" >> ~/.env
+``$_`` 
+*[TAYSHELLGO](https://github.com/berlintay/gotayshell)*
+```py
+[/]()
+[TAYSHELL]
+[\]{}
+<!-- I've been working on this idea for long, I am a beginner with programming -->
 ```
-
-
-```go
-func main() {
-client := openai.NewClient(getEnvVar("OPENAI_API_KEY"))
-// create a .env file OPENAI_API_KEY=**paste here no bracket**
-```
+---
 # Road Map
-
-- [ ] Filesystem 
-- [ ] parser
-- [x] tayshell openai bot
-- [ ] module environments to learn scripting and safe environment configurations
-
+- [🗃️] Filesystem 
+- [㊙️] parser
+- [✔️] tayshell openai bot
+- [🤔] module environments to learn scripting and safe environment configurations
 
 
-![image](https://github.com/berlintay/gotayshell/assets/128968711/d1cca1a2-d7a5-482c-a71e-a2b0ef72ef6d)
+``
+-_______________-
+![image](https://github.com/berlintay/gotayshell/assets/128968711/d1cca1a2-d7a5-482c-a71e-a2b0ef72ef6d)|              
+-_____________-
 
-as you can see it will help with programming and also show you the number of tokens per chat 🤖
-
-### Road Map for tayshell
+```py pretty
+|
+|_______ROOT
+|
+|__/dev
+   |
+   |__dev/tree
+      |
+      |__ dev/tree/leaf
+        | 1
+        |____ ~$HOME
+```json {
+ ```<!-- [~~~~~~~~~~~~~] -->```
+}
+try catch {
+std::cout << (error);
+    for e in a()
+        while b = c + :octocat: + 1 sleep(10s);
+try c
+    else f
+brak
