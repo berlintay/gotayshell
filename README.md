@@ -11,7 +11,7 @@
 <!-- I've been working on this idea for long, I am a beginner with programming -->
 ```
 ###
- [Charm inspired, check them out!](github.com/charmbracelet)
+ [Charm inspired, check them out!](https://github.com/charmbracelet)
 
 ---
 
