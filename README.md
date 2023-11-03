@@ -1,12 +1,17 @@
-``$_`` 
-*[TAYSHELLGO](https://github.com/berlintay/gotayshell)*
+
+![gif](https://bestanimations.com/media/penguins/95704114gotroot-penguin-animation.gif)
+
+
+ # *[TAYSHELLGO](https://github.com/berlintay/gotayshell)*
+---
 ```py
 [/]()
 [TAYSHELL]
 [\]{}
 <!-- I've been working on this idea for long, I am a beginner with programming -->
 ```
-[link](github.com/charmbracelet/glow)
+###
+ [Charm inspired, check them out!](github.com/charmbracelet/glow)
 
 ---
 
