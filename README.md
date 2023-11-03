@@ -6,7 +6,10 @@
 [\]{}
 <!-- I've been working on this idea for long, I am a beginner with programming -->
 ```
+[link](github.com/charmbracelet/glow)
+
 ---
+
 # Road Map
 - [🗃️] Filesystem 
 - [㊙️] parser
@@ -29,14 +32,6 @@
       |
       |__ dev/tree/leaf
         | 1
-        |____ ~$HOME
-```json {
- ```<!-- [~~~~~~~~~~~~~] -->```
-}
-try catch {
-std::cout << (error);
-    for e in a()
-        while b = c + :octocat: + 1 sleep(10s);
-try c
-    else f
-brak
+        |____ ~
+```
+
