@@ -7,8 +7,7 @@
 ```py
 [/]()
 [TAYSHELL]
-[\]{}
-<!-- I've been working on this idea for long, I am a beginner with programming -->
+
 ```
 ###
 [](https://github.com/charmbracelet/glow)
