@@ -1,7 +1,3 @@
-# Subdomain Finder
-
-This project is a tool for finding subdomains of a given domain. It consists of an improved subdomain finder, a test subdomain finder, and a warn script.
-
 mermaid
 graph LR
 
@@ -47,3 +43,5 @@ If you want to contribute to this project, please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License.
+Replit
+
