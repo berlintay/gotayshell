@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 graph LR
 
 SubdomainFinder --> ImprovedSubdomainFinder
@@ -16,7 +16,8 @@ classDef script fill:#90be6d,stroke:#373a47;
 SubdomainFinder((Subdomain Finder))
 ImprovedSubdomainFinder((Improved Subdomain Finder))
 TestSubdomainFinder((Test Subdomain Finder))
-WarnScript((Warn Script))
+WarnScript((Warn Script)
+```
 The improved subdomain finder is an enhanced version of the original subdomain finder. The test subdomain finder is used for testing the subdomain finding functionality. The warn script is a custom script that can be used to perform additional checks or actions when a subdomain is found.
 
 ## Usage
