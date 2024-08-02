@@ -47,11 +47,3 @@ If you want to contribute to this project, please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License.
-Replit
-
-
-When you push this README.md file to your GitHub repository, the Mermaid chart will be automatically rendered as an image in your README. Here's an example of what it might look like:
-
-![Subdomain Finder Mermaid Chart](https://i.imgur.com/ZYv33KA.png)
-
-You can find more information about Mermaid and its syntax at https://mermaid-js.github.io/mermaid-live-editor/.
