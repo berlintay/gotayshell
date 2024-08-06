@@ -23,10 +23,10 @@ The improved subdomain finder is an enhanced version of the original subdomain f
 ## Usage
 
 To use this tool, you can run the following command:
-Replit
-
+```
 bash
 go run main.go -url <domain>
+```
 Replace `<domain>` with the domain you want to find subdomains for.
 
 ## Improving the Subdomain Finder
